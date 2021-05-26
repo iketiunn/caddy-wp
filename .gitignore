@@ -1,0 +1,8 @@
+caddy_config/*
+!caddy_config/.gitkeep
+caddy_data/*
+!caddy_data/.gitkeep
+db/*
+!db/.gitkeep
+wordpress/*
+!wordpress/.gitkeep
