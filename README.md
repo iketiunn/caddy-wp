@@ -18,7 +18,7 @@ vim .env
 ...
 ```
 2. modify `Caddyfile`, replace localhost with your own domain (more configuration: https://caddyserver.com/docs/)
-3. start with command `docker-compose-up`
+3. start with command:
 ```
 docker-compose up
 ```
