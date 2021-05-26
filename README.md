@@ -8,6 +8,10 @@ docker-caddy-wordpress-mariadb
 
 ## Prepare
 - docker, docker-compose: https://www.docker.com/get-started
+- hardware
+  - hdd: 1GB+
+  - ram: 512mb+
+  - cpu: 1ghz+
 
 ## Start up
 1. copy `env.example` into `.env` with you own secrets
