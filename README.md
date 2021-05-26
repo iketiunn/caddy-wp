@@ -6,11 +6,11 @@ docker-caddy-wordpress-mariadb
 - Enabling ssl by default thanks to Caddy
 - Using mariadb for slightly better performace
 
-## prepare
+## Prepare
 - docker, docker-compose: https://www.docker.com/get-started
 
-## start up
-1. copy `env.example` into `.env` with you own secret
+## Start up
+1. copy `env.example` into `.env` with you own secrets
 ```
 cp env.example .env
 vim .env
@@ -23,6 +23,6 @@ vim .env
 docker-compose up
 ```
 
-## credits
+## Credits
 - https://blog.kernl.us/2019/10/wordpress-database-performance-showdown-mysql-vs-mariadb-vs-percona/
 - https://minhcung.me/how-to-start-wordpress-with-caddy/
