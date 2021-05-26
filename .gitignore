@@ -1,3 +1,5 @@
+.env
+
 caddy_config/*
 !caddy_config/.gitkeep
 caddy_data/*
